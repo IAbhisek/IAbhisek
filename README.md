@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 I'm an Electronics & Communication Engineering student passionate about **AI, ML, IoT, and Robotics**.
-- 🤖 Currently building smart robots and human-like embedded systems (OLED + servo + mic + cam + speaker).
+- 🤖 I like Building smart robots and embedded systems (OLED + servo + mic + cam + speaker).
 - 🧠 Exploring AI/ML, Full-Stack Web Dev, and DevOps side by side.
 - ✍️ Learning in public and trying to create impact via **tech + creativity**.
 - 🏆 5⭐ Coder on HackerRank | TechExpo Winner | SIH Internal Finalist
